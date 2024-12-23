@@ -8,6 +8,7 @@
 Project
 - crawling_data
   - csv파일
+- models 
 - job.py파일
 - README파일
 - requirements.txt
